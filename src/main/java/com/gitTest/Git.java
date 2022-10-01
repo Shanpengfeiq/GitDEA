@@ -14,5 +14,6 @@ public class Git {
         System.out.println("hot-fix1111111111111111");
         System.out.println("hot-fix222222222222222");
         System.out.println("push test");
+         System.out.println("push2222222222222223333333333333333333 test");
     }
 }
